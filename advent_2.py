@@ -1,3 +1,4 @@
+#solution https://adventofcode.com/2019/day/1
 fname = 'input.txt'
 hand = open(fname)
 s = 0
